@@ -6,6 +6,9 @@ A comprehensive Spring Boot project that demonstrates and benchmarks three diffe
 2. **Spring @RestController** - Native Spring MVC REST controllers
 3. **Spring Data REST** - Automatic REST API generation from repositories
 
+**Auteurs : Sohaib Laarichi & Osama Mansouri**
+
+
 ## 📋 Table of Contents
 
 - [Features](#features)
